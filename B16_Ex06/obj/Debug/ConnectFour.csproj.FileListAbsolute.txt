@@ -1,0 +1,14 @@
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\bin\Debug\ConnectFour.exe.config
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\bin\Debug\ConnectFour.exe
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\bin\Debug\ConnectFour.pdb
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.csprojAssemblyReference.cache
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.BoardCell.resources
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.ButtonToPress.resources
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.GameSettingsForm.resources
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.HowToPlayForm.resources
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.MainScreen.resources
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.csproj.GenerateResource.cache
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.exe
+C:\Users\idan\Dropbox\My Pojercts\Connect Four with AI\B16_Ex06\obj\Debug\ConnectFour.pdb
